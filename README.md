@@ -9,10 +9,17 @@ This is a Text editor that has functionality to be used online and offline. The 
 Adding to it, the app can be installed and an icon will be created on your desktop.
 
 * this app is built on Express and PWA functionalities. Without the use of any backend databases like DynamoDB or MySQl, intead IndexDB
-* 
+
 * this app has client - server folder structure:
 
 ![image](https://user-images.githubusercontent.com/115508901/236969455-68216496-73a2-4478-ba58-c69f942fbc40.png)
+
+![image](https://user-images.githubusercontent.com/115508901/236970712-a4ea9c5a-ad40-485c-8b1a-65fa1decb9dd.png)
+
+* Manifest is created and saved:
+
+![image](https://user-images.githubusercontent.com/115508901/236970843-3e6b50b2-00a5-4f85-8976-48cfe3dbf3c1.png)
+
 
 * Upon running the npm start, the build happens and the server starts :
 
@@ -34,30 +41,5 @@ Adding to it, the app can be installed and an icon will be created on your deskt
 ![image](https://user-images.githubusercontent.com/115508901/236970231-0b682be2-8433-4950-a400-ab01529e258b.png)
 
 
-
-
-
-
-
-
-
-
-## Mock-Up
-
-The following animation demonstrates the application functionality:
-
-![Demonstration of the finished Module 19 Challenge being used in the browser and then installed.](./Assets/00-demo.gif)
-
-The following image shows the application's `manifest.json` file:
-
-![Demonstration of the finished Module 19 Challenge with a manifest file in the browser.](./Assets/01-manifest.png)
-
-The following image shows the application's registered service worker:
-
-![Demonstration of the finished Module 19 Challenge with a registered service worker in the browser.](./Assets/02-service-worker.png)
-
-The following image shows the application's IndexedDB storage:
-
-![Demonstration of the finished Module 19 Challenge with a IndexedDB storage named 'jate' in the browser.](./Assets/03-idb-storage.png)
 
 
