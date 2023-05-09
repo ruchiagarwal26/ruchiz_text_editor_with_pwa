@@ -1,24 +1,29 @@
 # 19 Progressive Web Applications (PWA): Text Editor
 
-# https://thawing-wildwood-60203.herokuapp.com/
+## Deployed App heroku link : https://thawing-wildwood-60203.herokuapp.com/
 
-## Your Task
+## Github repo link : https://github.com/ruchiagarwal26/ruchiz_text_editor_with_pwa
 
-As you have progressed through this course, you have put together a number of impressive projects that you can show off to potential employers. This project is no exception; in fact, it features some of the most impressive expressions of the concepts you have learned so far.
+## Overview :
+This is a Text editor that has functionality to be used online and offline. The notes are saved in IndexDB and can be retrieved when required. 
+Adding to it, the app can be installed and an icon will be created on your desktop.
 
-Your task is to build a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
-
-To build this text editor, you will start with an existing application and implement methods for getting and storing data to an IndexedDB database. You will use a package called `idb`, which is a lightweight wrapper around the IndexedDB API. It features a number of methods that are useful for storing and retrieving data, and is used by companies like Google and Mozilla.
-
-You will deploy this full-stack application to Heroku using the [Heroku Deployment Guide on The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide).
-
-## User Story
-
-```md
-AS A developer
-I WANT to create notes or code snippets with or without an internet connection
-SO THAT I can reliably retrieve them for later use
 ```
+* this app is built on Express and PWA functionalities. Without the use of any backend databases like DynamoDB or MySQl, intead IndexDB
+* this app has client - server folder structure:
+
+image.png
+
+* Upon running the npm start, the build happens and the server starts :
+
+image.png
+
+
+
+
+
+
+
 
 ## Acceptance Criteria
 
