@@ -16,11 +16,6 @@ Adding to it, the app can be installed and an icon will be created on your deskt
 
 ![image](https://user-images.githubusercontent.com/115508901/236970712-a4ea9c5a-ad40-485c-8b1a-65fa1decb9dd.png)
 
-* Manifest is created and saved:
-
-![image](https://user-images.githubusercontent.com/115508901/236970843-3e6b50b2-00a5-4f85-8976-48cfe3dbf3c1.png)
-
-
 * Upon running the npm start, the build happens and the server starts :
 
 ![image](https://user-images.githubusercontent.com/115508901/236969411-257d1279-399c-4ace-8135-b10020b23d8a.png)
@@ -35,6 +30,10 @@ Adding to it, the app can be installed and an icon will be created on your deskt
 * The app is hosted on heroku App
 
 ![image](https://user-images.githubusercontent.com/115508901/236969939-0518d9ef-2c25-4095-96f2-69c22387398d.png)
+
+* Manifest is created and saved:
+
+![image](https://user-images.githubusercontent.com/115508901/236970843-3e6b50b2-00a5-4f85-8976-48cfe3dbf3c1.png)
 
 * Upon clicking install, th app got downloaded on my machine with its icon on my desktop:
 
