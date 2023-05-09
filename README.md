@@ -8,8 +8,8 @@
 This is a Text editor that has functionality to be used online and offline. The notes are saved in IndexDB and can be retrieved when required. 
 Adding to it, the app can be installed and an icon will be created on your desktop.
 
-```
 * this app is built on Express and PWA functionalities. Without the use of any backend databases like DynamoDB or MySQl, intead IndexDB
+* 
 * this app has client - server folder structure:
 
 ![image](https://user-images.githubusercontent.com/115508901/236969455-68216496-73a2-4478-ba58-c69f942fbc40.png)
@@ -33,10 +33,6 @@ Adding to it, the app can be installed and an icon will be created on your deskt
 
 ![image](https://user-images.githubusercontent.com/115508901/236970231-0b682be2-8433-4950-a400-ab01529e258b.png)
 
-
-
-
-```
 
 
 
